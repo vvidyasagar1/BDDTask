@@ -1,0 +1,13 @@
+
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ö•ìä8é‡§¸ñ,
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(¼È ïıÿÿÿÿ8Õ—¢»ñ,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ØïÀâ8é‡§¸ñ,
+psquid:UselessImportCheck"@Remove this unused import 'org.openqa.selenium.support.FindBys'.(şİê­ûÿÿÿÿ8Ü­åºñ,
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ØïÀâ8§¿«ºñ,
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ØïÀâ8ÔëŞºñ,
+asquid:S1155*">Use isEmpty() to check whether the collection is empty or not.(¿Õ“šıÿÿÿÿ8•¢İºñ,
+hsquid:S1192("JDefine a constant instead of duplicating this literal "size---->" 3 times.(ØïÀâ8ÔëŞºñ,

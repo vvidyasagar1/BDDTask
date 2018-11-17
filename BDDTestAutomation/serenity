@@ -1,0 +1,3 @@
+serenity.project.name=BDDTestAutomation
+serenity.outputDirectory = reports
+serenity.take.screenshots=AFTER_EACH_STEP

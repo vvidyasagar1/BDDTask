@@ -1,0 +1,6 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÈÔÄÔ8¢ß²Ùñ,
+3squid:S1700"Rename field "driver"(Õú¨Š8¢ß²Ùñ,
+ssquid:S1450"URemove the "driver" field and declare it as a local variable in the relevant methods.(Õú¨Š8µéÂÙñ,
+Xsquid:S1118
+":Add a private constructor to hide the implicit public one.(°÷ÈÏ8¡ÌÃÙñ,
